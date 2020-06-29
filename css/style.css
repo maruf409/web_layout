@@ -1,0 +1,218 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+body{
+    display: block;
+    background-image: url(../img/brick-brickwall-brickwork-cement-276514.jpg);
+    background-size: cover;
+    
+}
+
+/*...............................header part.........*/
+.container {
+    width: 1140px;
+    margin: 0 auto;
+    height: 75px;
+}
+
+.logo {
+    width: 30%;
+    float: left;
+    height: 100px;
+}
+
+.logo img {
+    padding: 5px;
+    display: block;
+    height: 75px;
+    width: 82px;
+}
+
+.menu {
+    width: 70%;
+    float: left;
+    height: 100px;
+}
+
+nav {}
+
+nav ul {}
+
+nav ul li {
+    list-style: none;
+    /*background-color: lightgreen;*/
+    display: inline-block;
+    margin: 20px 80px;
+    padding: 7px;
+    border: 5px solid black;
+    background-color: lightcoral;
+    border-radius: 100%;
+}
+
+nav ul li a {
+    text-decoration: none;
+    font-size: 30px;
+}
+
+header {
+    width: 100%;
+    float: left;
+}
+
+/*..........................Section-One.............*/
+.container-0 {
+    width: 100%;
+}
+
+.intruduction-one {
+    width: 50%;
+    height: 550px;
+    float: left;
+    /* background-color: blueviolet; */
+}
+
+.intruduction-one img {
+    margin-top: 15px;
+    padding: 20px;
+}
+
+.intruduction-two {
+    width: 50%;
+    height: 550px;
+    float: left;
+    /*  background-color: blueviolet; */
+}
+
+.intruduction-two h1 {
+    text-align: center;
+    margin: 0 auto;
+    font-family: 'Holtwood One SC', serif;
+    font-size: 60px;
+    margin-top: 200px;
+    color: lightseagreen;
+}
+
+.intruduction-two h2 {
+    text-align: center;
+    margin: 0 auto;
+    font-family: 'Holtwood One SC', serif;
+    font-family: 'Pacifico', cursive;
+    font-size: 40px;
+    color: lightseagreen;
+}
+
+.intuduction {
+    width: 100%;
+    float: left;
+}
+
+/*............................Section-Two............*/
+
+.bio-1 {
+    width: 100%;
+    float: left;
+    height: 100px;
+}
+
+.bio-1 h1 {
+    text-align: center;
+    margin: 0 auto;
+    font-family: 'Holtwood One SC', serif;
+    font-family: 'Pacifico', cursive;
+    font-size: 40px;
+    color: lightseagreen;
+}
+
+bio {
+    width: 100%;
+    float: left;
+}
+
+/*..........................Section-Three..............*/
+.expart-1 {
+    width: 25%;
+    float: left;
+    height: 200px;
+    /*   background-color: lightcoral;  */
+}
+
+.expart-1 img {
+    margin-top: 30px;
+    margin-left: 40px;
+    display: block;
+}
+
+.expart-1 h3 {
+    text-align: center;
+    margin: 0 auto;
+    font-family: 'Holtwood One SC', serif;
+    font-family: 'Pacifico', cursive;
+    font-size: 20px;
+}
+
+
+.expart-2 {
+    width: 25%;
+    float: left;
+    height: 200px;
+    /*   background-color: lightcoral; */
+}
+
+.expart-2 img {
+    margin-top: 30px;
+    margin-left: 30px;
+    display: block;
+}
+
+.expart-2 h3 {
+    text-align: center;
+    margin: 0 auto;
+    font-family: 'Holtwood One SC', serif;
+    font-family: 'Pacifico', cursive;
+    font-size: 20px;
+}
+
+.expart-3 {
+    width: 25%;
+    float: left;
+    height: 200px;
+    /*   background-color: lightcoral; */
+}
+
+
+.expart-3 img {
+    margin-top: 30px;
+    margin-left: 40px;
+    display: block;
+}
+
+.expart-3 h3 {
+    text-align: center;
+    margin: 0 auto;
+    font-family: 'Holtwood One SC', serif;
+    font-family: 'Pacifico', cursive;
+    font-size: 20px;
+}
+
+.expart-4 {
+    width: 25%;
+    float: left;
+    height: 200px;
+    /*   background-color: lightcoral; */
+}
+
+
+.expart-4 img {
+    margin-top: 30px;
+    margin-left: 80px;
+    display: block;
+}
+
+.expart-4 h3 {
+    text-align: center;
+    margin: 0 auto;
+    font-family: 'Holtwood One SC', serif;
+    font-family: 'Pacifico', cursive;
+    font-size: 20px;
+}
